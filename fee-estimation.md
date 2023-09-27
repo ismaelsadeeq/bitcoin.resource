@@ -24,9 +24,6 @@
 
 ## Current PR's on Fee Estimation
 
-- [Allow Fee Estimation to Work with Lower Fees](https://github.com/bitcoin/bitcoin/pull/13990)
-    - Connected to: [Lower Default Relay Fees](https://github.com/bitcoin/bitcoin/pull/13922)
-
 - [Add fee_est Tool for Debugging Fee Estimation Code](https://github.com/bitcoin/bitcoin/pull/10443)
 
 - [Detect and Ignore Transactions That Were CPFP'd in the Fee Estimator](https://github.com/bitcoin/bitcoin/pull/25380)
@@ -43,6 +40,10 @@
 
 **No Concept ACK**
 - [Policy, Refactor: CFeeRate::FromSatB/FromBtcKb Named Constructors](https://github.com/bitcoin/bitcoin/pull/20790)
+
+**Weak Concept ACK**
+- [Allow Fee Estimation to Work with Lower Fees](https://github.com/bitcoin/bitcoin/pull/13990)
+    - Connected to: [Lower Default Relay Fees](https://github.com/bitcoin/bitcoin/pull/13922)
 
 ### Issues on Fee stimation
 
