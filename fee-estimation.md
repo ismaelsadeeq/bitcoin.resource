@@ -24,8 +24,6 @@
 
 ## Current PR's on Fee Estimation
 
-- [Add fee_est Tool for Debugging Fee Estimation Code](https://github.com/bitcoin/bitcoin/pull/10443)
-
 - [Detect and Ignore Transactions That Were CPFP'd in the Fee Estimator](https://github.com/bitcoin/bitcoin/pull/25380)
     - Connected to: [Package-Aware Fee Estimation](https://github.com/bitcoin/bitcoin/pull/23074)
 
@@ -37,6 +35,7 @@
 **Concept ACK but Approach NACK**
 - [Switch to Weight Units for All Feerates Computation](https://github.com/bitcoin/bitcoin/pull/17566)
 - [Attempted Mempool-Based Fee Estimation](https://github.com/bitcoin/bitcoin/pull/12966)
+- [Add fee_est Tool for Debugging Fee Estimation Code](https://github.com/bitcoin/bitcoin/pull/10443)
 
 **No Concept ACK**
 - [Policy, Refactor: CFeeRate::FromSatB/FromBtcKb Named Constructors](https://github.com/bitcoin/bitcoin/pull/20790)
