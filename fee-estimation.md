@@ -48,6 +48,4 @@
 
 - [Improving fee estimation accurracy](https://github.com/bitcoin/bitcoin/issues/27995)
 
-- [EstimateMedianVal returns higher fee for higher confTarget](https://github.com/bitcoin/bitcoin/issues/20725)
-
 - [Bitcoin is returning higher fees for 36 block window than 2 block window (on testnet)](https://github.com/bitcoin/bitcoin/issues/11800)
