@@ -27,9 +27,6 @@
 - [Detect and Ignore Transactions That Were CPFP'd in the Fee Estimator](https://github.com/bitcoin/bitcoin/pull/25380)
     - Connected to: [Package-Aware Fee Estimation](https://github.com/bitcoin/bitcoin/pull/23074)
 
-- [Fee Estimator Updates from Validation Interface/Cscheduler Thread](https://github.com/bitcoin/bitcoin/pull/28368)
-    - Connected to: [Move Fee Estimator into Validationinterface/Cscheduler Thread](https://github.com/bitcoin/bitcoin/pull/11775)
-
 ### Interesting Closed PR's
 
 **Concept ACK but Approach NACK**
