@@ -24,9 +24,12 @@
 
 ## Current PR's on Fee Estimation
 
-- [Detect and Ignore Transactions That Were CPFP'd in the Fee Estimator](https://github.com/bitcoin/bitcoin/pull/25380)
-    - Connected to: [Package-Aware Fee Estimation](https://github.com/bitcoin/bitcoin/pull/23074)
+-  [Fee Estimation: change estimatesmartfee default mode to economical](https://github.com/bitcoin/bitcoin/pull/30275) 
 
+- [Fee Estimation: Ignore all transactions that are CPFP'd](https://github.com/bitcoin/bitcoin/pull/30079)
+    - Connected to: [Detect and Ignore Transactions That Were CPFP'd in the Fee Estimator](https://github.com/bitcoin/bitcoin/pull/25380)
+    - Connected to: [Package-Aware Fee Estimation](https://github.com/bitcoin/bitcoin/pull/23074)
+- [Fee Estimation via Fee rate Forecasters](https://github.com/bitcoin/bitcoin/pull/30157)
 ### Interesting Closed PR's
 
 **Concept ACK but Approach NACK**
