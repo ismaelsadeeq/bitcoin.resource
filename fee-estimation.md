@@ -3,7 +3,7 @@
 - [Gist](https://gist.github.com/gavinandresen/6548612)
 - [Chaincode Fee Estimation Video](https://www.youtube.com/watch?v=PYA1f2xlIOM&pp=ygUYY2hhaW5jb2RlIGZlZSBlc3RpbWF0aW9u)
 
-## Reworking of Fee Estimator (Using Buckets)
+## Reworking of Fee Estimator
 
 - [Mailing List Post](https://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/msg06405.html)
 - [GitHub Pull Request](https://github.com/bitcoin/bitcoin/pull/5159)
@@ -24,13 +24,10 @@
 
 ## Current PR's on Fee Estimation
 
--  [Fee Estimation: change estimatesmartfee default mode to economical](https://github.com/bitcoin/bitcoin/pull/30275) 
-
 - [Fee Estimation: Ignore all transactions that are CPFP'd](https://github.com/bitcoin/bitcoin/pull/30079)
     - Connected to: [Detect and Ignore Transactions That Were CPFP'd in the Fee Estimator](https://github.com/bitcoin/bitcoin/pull/25380)
     - Connected to: [Package-Aware Fee Estimation](https://github.com/bitcoin/bitcoin/pull/23074)
 - [Fee Estimation via Fee rate Forecasters](https://github.com/bitcoin/bitcoin/pull/30157)
-### Interesting Closed PR's
 
 **Concept ACK but Approach NACK**
 - [Switch to Weight Units for All Feerates Computation](https://github.com/bitcoin/bitcoin/pull/17566)
